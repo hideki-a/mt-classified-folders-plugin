@@ -1,0 +1,7 @@
+id: ClassifiedFoldersPlugin
+name: ClassifiedFoldersPlugin
+version: 1.0
+
+tags:
+    block:
+        ClassifiedFolders: $ClassifiedFoldersPlugin::ClassifiedFoldersPlugin::Tags::_hdlr_classified_folders
