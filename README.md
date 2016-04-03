@@ -27,3 +27,7 @@ recipe
 ```
 recipe > western > fish 
 ```
+
+## Note
+
+- Foldersと名前をつけましたが、`MTEntries`でも使えます。
