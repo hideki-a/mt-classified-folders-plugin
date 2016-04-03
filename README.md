@@ -1,33 +1,3 @@
 # ClassifiedFoldersPlugin
 
-## Sample
-
-### Folder Settings
-
-```
-recipe
-  western
-    fish
-    meat
-  japanese
-    fish
-    meat
-```
-
-### MTML
-
-```
-<mt:Pages id="94">
-<mt:ClassifiedFolders><$mt:FolderLabel$><mt:Unless name="__last__"> > </mt:Unless></mt:ClassifiedFolders>
-</mt:Pages>
-```
-
-### Output
-
-```
-recipe > western > fish 
-```
-
-## Note
-
-- Foldersと名前をつけましたが、`MTEntries`でも使えます。
+プラグイン名の改名に伴い、[hideki-a / mt-classified-categories-plugin](https://github.com/hideki-a/mt-classified-categories-plugin)へ移動しました。
